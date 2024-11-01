@@ -1,0 +1,410 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ytlink v0.9\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2013-04-01 02:51:33+0000\n"
+"Last-Translator: admin <jakob@xundeenergie.at>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: CSL v1.x\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: UNITED KINGDOM\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: options.php:82
+#@ ytlink
+msgid "Info"
+msgstr ""
+
+#: tab1.php:207
+#: tab2.php:78
+#@ ytlink
+msgid "Videodarstellung"
+msgstr ""
+
+#: tab1.php:212
+#@ ytlink
+msgid "neues Fenster"
+msgstr ""
+
+#: tab1.php:219
+#: tab1.php:297
+#: tab2.php:42
+#@ ytlink
+msgid "Vorschaubild"
+msgstr ""
+
+#: tab1.php:221
+#@ ytlink
+msgid "Die Darstellung des Videos im Admin-Bereich funktioniert nur in einem neuen Fenster."
+msgstr ""
+
+#: tab1.php:222
+#@ ytlink
+msgid "Zum Testen bitte eine Site oder Artikel ausprobieren!!!"
+msgstr ""
+
+#: tab1.php:235
+#@ ytlink
+msgid "Gr&ouml;&szlig;e:"
+msgstr ""
+
+#: tab1.php:236
+#@ ytlink
+msgid "klein"
+msgstr ""
+
+#: tab1.php:237
+#@ ytlink
+msgid "mittel"
+msgstr ""
+
+#: tab1.php:238
+#@ ytlink
+msgid "gro&szlig;"
+msgstr ""
+
+#: tab1.php:246
+#@ ytlink
+msgid "Benutzerdefiniert"
+msgstr ""
+
+#: tab1.php:247
+#@ ytlink
+msgid "horizontal."
+msgstr ""
+
+#: tab1.php:248
+#@ ytlink
+msgid "Die Vertikale ist der angegebene Horizontalwert * 0,75"
+msgstr ""
+
+#: tab1.php:253
+#: tab2.php:10
+#: tab2.php:59
+#@ ytlink
+msgid "Textfluss"
+msgstr ""
+
+#: tab1.php:255
+#: tab1.php:263
+#: tab2.php:68
+#@ ytlink
+msgid "links"
+msgstr ""
+
+#: tab1.php:256
+#@ ytlink
+msgid "keiner"
+msgstr ""
+
+#: tab1.php:257
+#: tab1.php:267
+#: tab2.php:70
+#@ ytlink
+msgid "rechts"
+msgstr ""
+
+#: tab1.php:262
+#@ ytlink
+msgid "horizontale Lage"
+msgstr ""
+
+#: tab1.php:265
+#: tab2.php:69
+#@ ytlink
+msgid "zentriert"
+msgstr ""
+
+#: tab1.php:273
+#: tab1.php:277
+#: tab2.php:53
+#@ ytlink
+msgid "Filmstreifen"
+msgstr ""
+
+#: tab1.php:280
+#@ ytlink
+msgid "vertikal"
+msgstr ""
+
+#: tab1.php:281
+#@ ytlink
+msgid "horizontal"
+msgstr ""
+
+#: tab1.php:288
+#@ ytlink
+msgid "Pfeil"
+msgstr ""
+
+#: tab1.php:322
+#@ ytlink
+msgid "Video Wiedergabegr&ouml;&szlig;e"
+msgstr ""
+
+#: tab1.php:323
+#@ ytlink
+msgid "Breite:"
+msgstr ""
+
+#: tab1.php:325
+#@ ytlink
+msgid "H&ouml;he"
+msgstr ""
+
+#: tab1.php:328
+#@ ytlink
+msgid "Standardtitel"
+msgstr ""
+
+#: tab1.php:329
+#: tab2.php:37
+#@ ytlink
+msgid "Titel"
+msgstr ""
+
+#: tab1.php:330
+#@ ytlink
+msgid "(Bei Shortcode ohne der Option \"tit=\")"
+msgstr ""
+
+#: options.php:140
+#@ ytlink
+msgid "Standardwerte"
+msgstr ""
+
+#: tab2.php:2
+#@ ytlink
+msgid "Info:"
+msgstr ""
+
+#: tab2.php:3
+#@ ytlink
+msgid "Dieses Plugin stellt einen Shortcode zur Verfügung, bei dem mehrere Optionen angegeben werden können."
+msgstr ""
+
+#: tab2.php:5
+#@ ytlink
+msgid "Youtube-Video-Code"
+msgstr ""
+
+#: tab2.php:6
+#@ ytlink
+msgid "Titel des Videos"
+msgstr ""
+
+#: tab2.php:7
+#@ ytlink
+msgid "Breite des Videofensters"
+msgstr ""
+
+#: tab2.php:8
+#@ ytlink
+msgid "Höhe des Videofensters"
+msgstr ""
+
+#: tab2.php:9
+#@ ytlink
+msgid "Welches Vorschaubild"
+msgstr ""
+
+#: tab2.php:11
+#@ ytlink
+msgid "Filmlochstreifen"
+msgstr ""
+
+#: tab2.php:14
+#@ ytlink
+msgid "Wenn der Youtube-Url &lt;<a href=\"http://www.youtube.com/watch?v=\"\" target=\"_blank\">http://www.youtube.com/watch?v=</a>&gt; lautet, so ist bei diesem Shortcode nur <span style=\"white-space:nowrap;\">ytid=\"<span style=\"color:red\";\">\"</span></span> anzugeben."
+msgstr ""
+
+#: tab2.php:15
+#@ ytlink
+msgid ""
+"Der Titel des Videos kann frei gewählt werden und ist mit tit=\"TITEL\" anzugeben.<br>\n"
+"Die Breite und Höhe des Videofensters wird mit x=\"200\" y=\"150\" angegeben.<br>\n"
+"<p>\n"
+"Es gibt mehrere Möglichkeiten den Shortcode anzugeben. Die Reihenfolde der Optionen ist dabei unerheblich:"
+msgstr ""
+
+#: tab2.php:29
+#@ ytlink
+msgid "Optionen"
+msgstr ""
+
+#: tab2.php:31
+#@ ytlink
+msgid "Video-Darstellungsgr&ouml;&szlig;e"
+msgstr ""
+
+#: tab2.php:35
+#@ ytlink
+msgid "Das Video wird mit der Gr&ouml;&szlig;e von 300x200px dargestellt. Fehlt eine oder zwei dieser Optionen, wird auf die Standardvorgabe aus der Einstellungs-Seite jeweils zurückgegriffen."
+msgstr ""
+
+#: tab2.php:39
+#@ ytlink
+msgid "Ich bin ein Titel"
+msgstr ""
+
+#: tab2.php:41
+#@ ytlink
+msgid "Hier kann der Titel-Tag angegeben werden. Für den Link wird das Attribut \"title\" gesetzt und die Beschriftung in der Videobox erfolgt genauso. Fehlt diese Option, wird auf den Standardtitel gem&auml;&szlig; Einstellungen zug&uuml;ckgegriffen."
+msgstr ""
+
+#: tab2.php:43
+#@ ytlink
+msgid "Youtube stellt 4 verschiedene Vorschaubilder zur Verfügung."
+msgstr ""
+
+#: tab2.php:51
+#@ ytlink
+msgid "Das Plugin wählt als Standard immer \"default\" aus. Sollte für ein Video ein anderes besser passen, wählen Sie bitte dieses im Shortcode entsprechend aus."
+msgstr ""
+
+#: tab2.php:55
+#@ ytlink
+msgid "keine Filmlochstreifen"
+msgstr ""
+
+#: tab2.php:56
+#@ ytlink
+msgid "horizontale Filmlochstreifen"
+msgstr ""
+
+#: tab2.php:57
+#@ ytlink
+msgid "vertikale Filmlochstreifen"
+msgstr ""
+
+#: tab2.php:61
+#@ ytlink
+msgid "Das Vorschaubild ist links, der Text umfließt das Bild rechts"
+msgstr ""
+
+#: tab2.php:62
+#@ ytlink
+msgid "Das Vorschaubild ist rechts, der Text umfließt das Bild links"
+msgstr ""
+
+#: tab2.php:63
+#@ ytlink
+msgid "Das Vorschaubild sitzt entsprechend \"align\" rechts, zentriert oder links, der Text wird nach dem Vorschaubild fortgesetzt"
+msgstr ""
+
+#: tab2.php:65
+#@ ytlink
+msgid "horizontale Ausrichtung"
+msgstr ""
+
+#: tab2.php:66
+#@ ytlink
+msgid "Wenn die Option <code>float=\"none\"</code> gesetzt ist, kann die horizontale Position gewählt werden:"
+msgstr ""
+
+#: tab2.php:72
+#@ ytlink
+msgid "Farbe des Pfeiles"
+msgstr ""
+
+#: tab2.php:73
+#@ ytlink
+msgid "Die Farbe des Pfeiles ist in Hexadezimaler Schreibweise anzugeben OHNE führendes \"#\""
+msgstr ""
+
+#: tab2.php:75
+#@ ytlink
+msgid "wei&szlig;er Pfeil"
+msgstr ""
+
+#: tab2.php:76
+#@ ytlink
+msgid "roter Pfeil"
+msgstr ""
+
+#: tab2.php:79
+#@ ytlink
+msgid "Damit die Optionen \"fancybox\" und \"prettyphoto\" genutzt werden können, muss das jeweilige Plugin installiert sein. Es sind in diesen Plugins keine weiteren Einstellungen vorzunehmen!"
+msgstr ""
+
+#: tab2.php:81
+#@ ytlink
+msgid "Für die Option"
+msgstr ""
+
+#: tab2.php:84
+#@ ytlink
+msgid "\"fancybox\" ist"
+msgstr ""
+
+#: tab2.php:85
+#@ ytlink
+msgid "\"prettyphoto\" ist"
+msgstr ""
+
+#: tab2.php:87
+#@ ytlink
+msgid "zu installieren."
+msgstr ""
+
+#: tab3.php:2
+#@ ytlink
+msgid "Einstellungen für die Videodarstellung in Fancybox"
+msgstr ""
+
+#: tab4.php:2
+#@ ytlink
+msgid "Einstellungen für die Videodarstellung in prettyPhoto"
+msgstr ""
+
+#: tab5.php:2
+#@ ytlink
+msgid "Einstellungen für die Videodarstellung in slimbox"
+msgstr ""
+
+#: ytlink.php:126
+#: ytlink.php:129
+#@ ytlink
+msgid "Video ansehen"
+msgstr ""
+
+#: tab1.php:203
+#@ ytlink
+msgid "Youtube-Link"
+msgstr ""
+
+#: options.php:139
+#@ ytlink
+msgid "&Auml;nderungen &uuml;bernehmen"
+msgstr ""
+
+#: options.php:79
+#@ ytlink
+msgid "Einstellungen"
+msgstr ""
+
+#: options.php:85
+#@ ytlink
+msgid "Einstellungen Fancybox"
+msgstr ""
+
+#: options.php:88
+#@ ytlink
+msgid "Einstellungen prettyPhoto"
+msgstr ""
+
+#: options.php:91
+#@ ytlink
+msgid "Einstellungen slimbox"
+msgstr ""
+

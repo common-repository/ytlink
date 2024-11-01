@@ -1,0 +1,152 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. Text in echo
+#: tab1.php:330
+msgid "(Bei Shortcode ohne der Option \"tit=\")"
+msgstr ""
+
+#. Text in echo
+#: tab1.php:246
+msgid "Benutzerdefiniert"
+msgstr ""
+
+#. Text in echo
+#: tab1.php:323
+msgid "Breite:"
+msgstr ""
+
+#. Text in echo
+#: tab1.php:221
+msgid "Die Darstellung des Videos im Admin-Bereich funktioniert nur in einem neuen Fenster."
+msgstr ""
+
+#. Text in echo
+#: tab1.php:248
+msgid "Die Vertikale ist der angegebene Horizontalwert * 0,75"
+msgstr ""
+
+#. Text in echo
+#: tab1.php:273
+#: tab1.php:277
+msgid "Filmstreifen"
+msgstr ""
+
+#. Text in echo
+#: tab1.php:235
+msgid "Gr&ouml;&szlig;e:"
+msgstr ""
+
+#. Text in echo
+#: tab1.php:325
+msgid "H&ouml;he"
+msgstr ""
+
+#. Text in echo
+#: tab1.php:288
+msgid "Pfeil"
+msgstr ""
+
+#. Text in echo
+#: tab1.php:328
+msgid "Standardtitel"
+msgstr ""
+
+#. Text in echo
+#: tab1.php:336
+msgid "Standardwerte"
+msgstr ""
+
+#. Text in echo
+#: tab1.php:253
+msgid "Textfluss"
+msgstr ""
+
+#. Text in echo
+#: tab1.php:329
+msgid "Titel"
+msgstr ""
+
+#. Text in echo
+#: tab1.php:322
+msgid "Video Wiedergabegr&ouml;&szlig;e"
+msgstr ""
+
+#. Text in echo
+#: tab1.php:207
+msgid "Videodarstellung"
+msgstr ""
+
+#. Text in echo
+#: tab1.php:297
+msgid "Vorschaubild"
+msgstr ""
+
+#. Text in echo
+#: tab1.php:222
+msgid "Zum Testen bitte eine Site oder Artikel ausprobieren!!!"
+msgstr ""
+
+#. Text in echo
+#: tab1.php:238
+msgid "gro&szlig;"
+msgstr ""
+
+#. Text in echo
+#: tab1.php:281
+msgid "horizontal"
+msgstr ""
+
+#. Text in echo
+#: tab1.php:247
+msgid "horizontal."
+msgstr ""
+
+#. Text in echo
+#: tab1.php:262
+msgid "horizontale Lage"
+msgstr ""
+
+#. Text in echo
+#: tab1.php:256
+msgid "keiner"
+msgstr ""
+
+#. Text in echo
+#: tab1.php:236
+msgid "klein"
+msgstr ""
+
+#. Text in echo
+#: tab1.php:255
+#: tab1.php:263
+msgid "links"
+msgstr ""
+
+#. Text in echo
+#: tab1.php:237
+msgid "mittel"
+msgstr ""
+
+#. Text in echo
+#: tab1.php:212
+msgid "neues Fenster"
+msgstr ""
+
+#. Text in echo
+#: tab1.php:257
+#: tab1.php:267
+msgid "rechts"
+msgstr ""
+
+#. Text in echo
+#: tab1.php:280
+msgid "vertikal"
+msgstr ""
+
+#. Text in echo
+#: tab1.php:265
+msgid "zentriert"
+msgstr ""
